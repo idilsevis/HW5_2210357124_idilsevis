@@ -25,8 +25,6 @@ This repository contains the implementation for an extra credit homework assignm
   - **Class 1**: Outer ring
 - **Size**: 200 points (100 per class)
 
-Example:
-![Concentric Dataset](q1.png)
 
 ---
 
@@ -48,13 +46,6 @@ Example:
 - **Figure 3**: 3D decision surface for RBF kernel  
 - **Figure 4**: 2D decision boundary for RBF kernel
 
-Examples:
-
-<p float="left">
-  <img src="q2.png" width="45%" />
-  <img src="q4.png" width="45%" />
-</p>
-
 ---
 
 ##Insights
@@ -67,7 +58,6 @@ Examples:
 
 ## File Structure
 
-.
 ├── q1.png # Q1: Dataset plot
 ├── q2.png # Q2: Linear SVM
 ├── q3.png # Q3: RBF Kernel 3D surface
